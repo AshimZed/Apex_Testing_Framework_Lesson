@@ -1,4 +1,6 @@
 public class ContactHandler {
+
+    // Method to create a new contact
     public static void createContact(String firstName, String lastName, String email) {
 
         // Ensure all necessary information is present
